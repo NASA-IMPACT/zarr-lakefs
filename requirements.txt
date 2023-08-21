@@ -1,0 +1,4 @@
+s3fs
+zarr
+python-dotenv
+boto3
