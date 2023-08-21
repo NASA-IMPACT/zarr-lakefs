@@ -6,8 +6,11 @@ This repository demonstrates the usage of Zarr in combination with lakeFS for ve
 In this example, we showcase the following steps:
 
 1- Creation of a Zarr store locally.
+
 2- Uploading the Zarr store to the main branch of the lakeFS repository.
+
 3- Updating the Zarr store by modifying the value at index [2][2].
+
 4- Committing the updated Zarr store to the dev branch.
 
 
