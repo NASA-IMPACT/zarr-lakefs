@@ -16,6 +16,16 @@ In this example, we showcase the following steps:
 
 In the `main.py` file, you can find the code snippet that illustrates how to read the Zarr store from different branches using the lakeFS API. This snippet is designed to help you understand how to access and work with your version-controlled data in a flexible and efficient manner.
 
+```bash
+$python main.py
+In main branch store[2][2] = 42
+In dev branch store[2][2] = 100
+
+```
+
+
+
+
 ![](./images/lakefs_branches.png)
 
 
